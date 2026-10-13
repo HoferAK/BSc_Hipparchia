@@ -1,0 +1,10 @@
+  cff-version: 1.0.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Temporal changes in the population structure of endangered Hipparchia butterflies"
+authors:
+  - family-names: "Hofer"
+    given-names: "Anna"
+repository-code: "https://github.com/HoferAK/BSc_Hipparchia"
+doi: "10.5281/zenodo.23335000"
+date-released: "2026-10-13"
